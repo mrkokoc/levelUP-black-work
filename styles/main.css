@@ -1,0 +1,21 @@
+.darkBG {
+    background: #999;
+}
+
+.darkerBG {
+    background: #666;
+}
+
+.darkestBG {
+    background: #444;
+}
+
+header .menu {
+    clear: both;
+    border-top: 1px solid #d6d6d6;
+    border-bottom: 1px solid #d6d6d6;
+}
+
+header .top {
+    padding: 6px 0 40px;
+}
